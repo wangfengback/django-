@@ -1,0 +1,9 @@
+配置数据库环境
+参考：
+    https://docs.djangoproject.com/en/1.10/ref/settings/#std:setting-HOST
+软件下载网址：
+    http://www.stickpeople.com/projects/python/win-psycopg/
+    
+虚拟环境下安装
+pip freeze 查看当前安装的版本
+    

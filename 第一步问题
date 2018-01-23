@@ -1,0 +1,7 @@
+其中有个choices属性，例如男女选择
+makemigrations在app下创建目录 
+migrate 将改动带到数据库
+
+author = models.ForeignKey(User,related_name="blogs_posts")
+  related_name 联系的是类的对象，ForeignKey，ManyToManyField没有深入理解
+  不是特别懂，先过
